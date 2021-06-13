@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/urmzd/mastering-fp/issues"
   },
-  "homepage": "https://github.com/urmzd/mastering-fp#readme"
+  "homepage": "https://github.com/urmzd/mastering-fp#readme",
+  "dependencies": {
+    "jest": "^27.0.4"
+  }
 }
